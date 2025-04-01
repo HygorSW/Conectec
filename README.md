@@ -19,7 +19,6 @@ A **Conectec** permite que os alunos da ETEC interajam, compartilhem conteúdos 
 - **Backend:** PHP/Laravel
 - **Frontend:** Blade (Laravel Views) / Bootstrap
 - **Banco de Dados:** MySQL
-- **Autenticação:** JWT / Laravel Passport
 
 ## 📌 Como Executar o Projeto
 
@@ -27,7 +26,6 @@ A **Conectec** permite que os alunos da ETEC interajam, compartilhem conteúdos 
 Antes de começar, você precisará ter as seguintes ferramentas instaladas:
 - PHP & Composer
 - MySQL
-- Node.js & NPM/Yarn
 - Git
 
 ### 🔹 Instalação
