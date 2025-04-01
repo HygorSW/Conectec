@@ -43,19 +43,29 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas:
    ```sh
    composer install
    ```
-4. Configure o arquivo **.env**
+4. Configure o arquivo **.env** ( Apenas crie o arquivo .env na pasta conectec, copie o conteudo do arquivo .env.example e cole no .env criado)
 5. Execute as migrations e seeds:
    ```sh
    php artisan migrate --seed
    ```
-6. Inicie o servidor backend:
+6. Execute a chave:
+   ```sh
+     php artisan key:generate
+   ```
+7. Execute o storage:
+   ```sh
+     php artisan storage:link
+   ```
+8. Inicie o servidor backend:
    ```sh
    php artisan serve
    ```
-7. Acesse no navegador:
+9. Acesse no navegador:
    ```
    http://localhost:8000
    ```
+
+Obs: Usar uma conta com @etec.com ao se cadastrar!!
 
 ## 🖼️ Prints das Telas
 
