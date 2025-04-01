@@ -41,7 +41,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas:
    ```
 3. Instale as dependências do backend:
    ```sh
-   composer install
+   composer install 
    ```
 4. Configure o arquivo **.env** ( Apenas crie o arquivo .env na pasta conectec, copie o conteudo do arquivo .env.example e cole no .env criado)
 5. Execute as migrations e seeds:
@@ -71,9 +71,24 @@ Obs: Usar uma conta com @etec.com ao se cadastrar!!
 
 Adicione capturas de tela da aplicação aqui para melhor visualização:
 
-![Tela Inicial](caminho/para/imagem1.png)
-![Perfil do Usuário](caminho/para/imagem2.png)
-![Grupos de Estudo](caminho/para/imagem3.png)
+![Login](./PrintConectec/LoginUser.png)
+![Tela Inicial](./PrintConectec/home.png)
+![Perfil do Usuário Visitante](./PrintConectec/perfilVisitante.png)
+![Perfil do Usuário](./PrintConectec/perfil.png)
+![Post Comentarios](./PrintConectec/comentarios.png)
+![Chat](./PrintConectec/chat.png)
+![Dashboard do Usuário](./PrintConectec/dashUser.png)
+![Editar perfil](./PrintConectec/editProfile.png)
+![Explorar](./PrintConectec/explorar.png)
+![Pesquisar](./PrintConectec/pesquisa.png)
+![Função denunciar post](./PrintConectec/denuncia.png)
+![Notificações](./PrintConectec/notifacoes.png)
+![Tela de cadastro](./PrintConectec/register.png)
+![Login Adm](./PrintConectec/printADM.png)
+![Dashboard Admin](./PrintConectec/DashADM.png)
+![Dashboard ADmin](./PrintConectec/postADM.png)
+
+
 
 
 
